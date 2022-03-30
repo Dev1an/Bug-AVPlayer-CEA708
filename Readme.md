@@ -5,6 +5,7 @@ Subtitles are scrambled using the native video player in Safari on macOS an iOS.
 ![Bug illustration - THEOplayer vs native video player](example.jpg)
 
 
+This bug was filed using Apple's Feedback assistant on 30 March 2022 with ticket ID: FB9970162
 
 ## Reproduction
 
